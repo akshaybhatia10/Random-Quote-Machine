@@ -1,0 +1,46 @@
+body{
+    font-family: "Lato";
+    margin: 0;
+    background: none;
+}
+
+.container{
+    text-align: center;
+    margin:; 20px auto;
+}
+
+.quotes{
+    margin: 80px auto;
+    width: 50%;
+}
+
+#quote{
+	font-size: 150%;
+	font-weight: 700;
+}
+
+#author{
+	font-size: medium;
+	font-weight: 200;
+}
+
+.header{
+    color: white;
+    width: 100%;
+    background: steelblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding: 20px 0;
+    line-height: 1.1;
+}
+
+button{
+	color:steelblue;
+	font-weight: 700;
+	background: none;
+}
+button:hover{
+    color: black;
+    background : steelblue;
+}
